@@ -1,0 +1,21 @@
+{
+    "name": "loxodonta/command-bus-bundle",
+    "description": "Symfony bundle for loxodonta/command-bus",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nicolas Canfrere",
+            "email": "nicolas.canfrere@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Loxodonta\\CommandBusBundle\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "loxodonta/command-bus": "^0.1.0"
+    }
+}
