@@ -16,6 +16,6 @@
     },
     "require": {
         "php": ">=7.4",
-        "loxodonta/command-bus": "^0.1.0"
+        "loxodonta/command-bus": "0.2.0"
     }
 }

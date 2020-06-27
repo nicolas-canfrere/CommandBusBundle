@@ -8,7 +8,6 @@ use Symfony\Component\DependencyInjection\Definition;
 use Symfony\Component\DependencyInjection\Extension\Extension;
 use Symfony\Component\DependencyInjection\Loader\XmlFileLoader;
 use Loxodonta\CommandBus\Signature\CommandBusHandlerInterface;
-use Loxodonta\CommandBus\Signature\CommandBusMiddlewareInterface;
 
 /**
  * Class LoxodontaCommandBusExtension
